@@ -214,6 +214,37 @@
             figure
               img.pt-4.px-4(src="@/assets/curso/tema1/img14.svg", alt="dinámica de los procesos productivos")
     
+    .row.justify-content-center.mb-3
+      .col-lg-10      
+        
+        .tarjeta.color-secundario.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/tema2/img07.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1 Anexo.
+                  p.mb-0 Actualización legal y jurisprudencia en riesgos laborales
+                .col-sm-auto
+                  a.boton.acento-botones(:href="obtenerLink('/downloads/Actualización_y_jurisprudencia.pdf')" target="_blank")
+                    span.textBlack Descargar
+                    i.fas.fa-file-download.textBlack
+        
+        .row.mb-3
+          .col-md-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/SL9355-2017.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p #[strong Anexo.] SL9355-2017
+          .col-md-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Accidente_mortal.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p #[strong Anexo.] Accidente mortal en el trabajo
+    
     Separador
 
     #t1_2.titulo-segundo
@@ -269,11 +300,11 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img16.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4.d-grid
-            p.mb-4 Matriz legal
+            h4.text-center.mb-4 Matriz legal
             p.mb-4 Estimado aprendiz, para la actualización del Sistema de Gestión de Seguridad y Salud en el Trabajo, debe realizar la revisión de la matriz legal. Descargue el siguiente documento para mayor comprensión de esta.
             .row.justify-content-center.d-flex
               .col-lg-10
-                a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                a.anexo.mb-4(:href="obtenerLink('/downloads/Matriz_Legal.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
@@ -384,7 +415,7 @@
           .col-lg-8.d-flex.align-items-center.mb-4.mb-lg-0
             p.mb-0 Estimado aprendiz, para ampliar la información, descargue el siguiente documento.
           .col-6.col-lg-4.d-flex.align-items-center
-            a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo(:href="obtenerLink('/downloads/PDF3_organizacion_sgsst_sena_mintrabajo.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -401,7 +432,7 @@
           .col-lg-8.d-flex.align-items-center.mb-4.mb-lg-0
             p.mb-0 Estimado aprendiz, para actualizar la matriz legal, debe revisar la legislación aplicable para la actividad económica de la empresa. Puede consultar normatividad en el siguiente enlace: 
           .col-6.col-lg-4.d-flex.align-items-center
-            a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo(href="https://www.mintrabajo.gov.co/normatividad/decretos-no-compilados-y-otros-decretos/-/document_library/9gX59PkUWi1Z/view_file/61335154" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -436,7 +467,7 @@
             p.mb-4 Para consultar todas las normas vigentes en el marco de la pandemia por SARS-CoV-2, consulte el siguiente enlace:
             .row.justify-content-center
               .col-lg-8
-                a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                a.anexo(href="http://colombiasigueadelante.mincit.gov.co/protocolos-de-seguridad" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto

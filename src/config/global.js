@@ -147,19 +147,21 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Circular 0041 de 2020. [Ministerio del Trabajo]. Lineamientos respecto del trabajo en casa. Junio 2 de 2020.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.mintrabajo.gov.co/documents/20147/60876961/Circular+0041-2020.PDF/98d19065-352d-33d2-978e-9e9069374144?t=1591222484807',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Circular 0071 de 2020. [Ministerio del Trabajo]. Cumplimiento al Parágrafo 2 del artículo 28 de la Resolución 312 de 2019 mediante la cual se definen planes de mejora conforme al resultado de la autoevaluación de los estándares mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.mintrabajo.gov.co/documents/20147/60876961/circular+0071.pdf/f7f84d25-fcb2-e957-d9ce-cb4c87e84be3?t=1606771091887.',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Decreto 488 de 2020. [Ministerio del Trabajo]. Por el cual se dictan medidas de orden laboral, dentro del Estado de Emergencia Económica, Social y Ecológica. Marzo 27 de 2020. ',
+      link:
+        'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20488%20DEL%2027%20DE%20MARZO%20DE%202020.pdf',
     },
     {
       referencia:
@@ -169,7 +171,9 @@ export default {
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'Decreto 500 de 2020. [Ministerio del Trabajo]. Por el cual se adoptan medidas de orden laboral, relativas a la destinación de los recursos de las cotizaciones a las Administradoras de Riesgos Laborales de carácter público, en el marco del Estado de Emergencia Económica, Social y Ecológica. Marzo 31 de 2020',
+      link:
+        'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20488%20DEL%2027%20DE%20MARZO%20DE%202020.pdf',
     },
     {
       referencia:
@@ -179,102 +183,147 @@ export default {
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Decreto 676 de 2020. [Ministerio del Trabajo]. Por el cual se incorpora una enfermedad directa a la tabla de enfermedades laborales y se dictan otras disposiciones. Mayo 19 de 2020.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20676%20DEL%2019%20DE%20MAYO%20DE%202020.pdf',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'IESS [Instituto Ecuatoriano de Seguridad Social]. (2005). Decisión 584. Instrumento Andino de Seguridad y Salud en el Trabajo. OISS.',
+      link: 'https://oiss.org/wp-content/uploads/2018/12/decision584.pdf',
+    },
+    {
+      referencia:
+        'Ley 610 de 2013. Por la cual se regulan algunos aspectos sobre las inspecciones del trabajo y los acuerdos de formalización laboral. Enero 2 de 2013. DO. Nº 48.661.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=51147',
+    },
+    {
+      referencia:
+        'Ley 2015 de 2020. Por medio de la cual se crea la historia clínica electrónica interoperable y se dictan otras disposiciones. Enero 31 de 2020.',
+      link:
+        'https://dapre.presidencia.gov.co/normativa/normativa/LEY%202015%20DEL%2031%20DE%20ENERO%20DE%202020.pdf',
+    },
+    {
+      referencia:
+        'Resolución 957 de 2005. [Comunidad Andina]. Reglamento del Instrumento Andino de Seguridad y Salud en el Trabajo. Septiembre 23 de 2005.',
+      link:
+        'http://intranet.comunidadandina.org/documentos/Gacetas/gace1245.pdf',
+    },
+    {
+      referencia:
+        'Resolución 4927 de 2016. [Ministerio del Trabajo]. Por la cual se establecen los parámetros y requisitos para desarrollar, certificar y registrar la capacitación virtual en el Sistema de Gestión de la Seguridad y Salud en el Trabajo. Noviembre 23 de 2016.',
+      link: 'https://safetya.co/normatividad/resolucion-4927-de-2016/',
+    },
+    {
+      referencia:
+        'Resolución 0312 de 2019. [Ministerio del Trabajo]. Por la cual se definen los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST. Febrero 13 de 2019.',
+      link: 'https://safetya.co/normatividad/resolucion-0312-de-2019/',
+    },
+    {
+      referencia:
+        'Resolución 2404 de 2019. [Ministerio del Trabajo]. Por la cual se adopta la batería de instrumentos para la evaluación de factores de riesgo psicosocial, la guía técnica general para la promoción, prevención e intervención de los factores psicosociales y sus efectos en la población trabajadora y sus protocolos específicos y se dictan otras disposiciones. Julio 22 de 2019.',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/59995826/Resolucion+2404+de+2019-+Adopcion+bateria+riesgo+psicosocial%2C+guia+y+protocolos.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Ciclo PHVA',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Procedimiento lógico y por etapas que permite el mejoramiento continuo a través de los pasos Planear, Hacer, Verificar y Actuar.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Dolo',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'La conducta de realizar cualquier hecho constitutivo de infracción penal de forma intencional. (Código Penal colombiano).',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Estructura',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Conjunto de relaciones que establecen las partes en organización y orden respecto de un todo. Sistema coherente de conceptos que definen un objeto.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Gestión',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Actividad administrativa que busca mejorar los procesos de una organización para ver los resultados en la productividad y la competitividad de la misma.',
     },
     {
-      termino: 'Moda',
+      termino: 'Legal',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Relativo a la ley, lo que está conforme a ella, como término opuesto a ilegal, que es lo que no se adecúa a la norma jurídica.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Matriz',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Una matriz es una colección ordenada de elementos colocados en filas y columnas.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Matriz legal',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Compilación de requisitos normativos exigibles a la empresa, de acuerdo con las actividades propias e inherentes de su actividad productiva, los cuales dan los lineamientos normativos y técnicos para desarrollar el Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST), el cual deberá actualizarse en la medida que sean emitidas nuevas disposiciones aplicables.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Mejora continua',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Proceso recurrente de optimización al Sistema de Gestión de la Seguridad y Salud en el Trabajo, para lograr mejoras en el desempeño dentro de este campo, de forma coherente con la política de Seguridad y Salud en el Trabajo (SST) de la organización.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Organización',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Una organización es un sistema diseñado para alcanzar ciertas metas y objetivos. Estos sistemas pueden, a su vez, estar conformados por otros subsistemas relacionados que cumplen funciones específicas. En otras palabras, una organización es un grupo social formado por personas, tareas y administración, que interactúan en el marco de una estructura sistemática para cumplir con sus objetivos.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Proceso',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Un proceso es una secuencia de pasos dispuesta con algún tipo de lógica que se enfoca en lograr algún resultado específico.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Salud',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'La salud es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades.',
+    },
+    {
+      termino: 'Seguridad',
+      significado:
+        'Protección ante la carencia de peligros externos que afecten negativamente la calidad de vida.',
+    },
+    {
+      termino: 'Seguridad y Salud en el Trabajo',
+      significado:
+        'La Seguridad y Salud en el Trabajo (SST) es la disciplina que trata de la prevención de las lesiones y enfermedades causadas por las condiciones de trabajo, y de la protección y promoción de la salud de los trabajadores.',
+    },
+    {
+      termino: 'Sistema',
+      significado:
+        'Es un conjunto de partes o elementos organizados y relacionados que interactúan entre sí para lograr un objetivo. Los sistemas reciben entradas y proveen salidas.',
+    },
+    {
+      termino: 'Sistema de Gestión de la Seguridad y Salud en el Trabajo',
+      significado:
+        'Consiste en el desarrollo de un proceso lógico y por etapas, basado en la mejora continua; incluye la política, la organización, la planificación, la aplicación, la evaluación, la auditoría y las acciones de mejora, con el objetivo de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y la salud en el trabajo.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Estándares mínimos SG-SST. Resolución 0312 de 2019. [Ministerio del Trabajo]. Por la cual se definen los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST. Febrero 13 de 2019.”',
+      tipo: 'Página web',
+      link: 'https://safetya.co/normatividad/resolucion-0312-de-2019/      ',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
+        'Actualización de la capacitación virtual del SG-SST. Circular 0063 de 2020. [Ministerio del Trabajo]. Actualización de la capacitación virtual de carácter gratuito en el SG-SST conforme a la Resolución 4927 de 2016. Octubre 7 de 2020.',
       tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/0/Circular+0063.PDF/d49fb52c-62db-c2eb-a7bf-7709afbf185f?t=1602107562154',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
+        'Se definen planes de mejora conforme al resultado de la autoevaluación del SG-SST. Circular 0071 de 2020. [Ministerio del Trabajo]. Cumplimiento al Parágrafo 2 del artículo 28 de la Resolución 312 de 2019 mediante la cual se definen los planes de mejora conforme al resultado de la autoevaluación de los estándares mínimos del SG-SST. Noviembre 30 de 2020.',
       tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/60876961/circular+0071.pdf/f7f84d25-fcb2-e957-d9ce-cb4c87e84be3?t=1606771091887',
     },
   ],
   creditos: {
@@ -306,20 +355,20 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Oscar Ivan Uribe Ortiz',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
         nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Diego Fernando Velasco Güiza',
+        cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
