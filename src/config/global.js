@@ -165,21 +165,9 @@ export default {
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
         'Decreto 500 de 2020. [Ministerio del Trabajo]. Por el cual se adoptan medidas de orden laboral, relativas a la destinación de los recursos de las cotizaciones a las Administradoras de Riesgos Laborales de carácter público, en el marco del Estado de Emergencia Económica, Social y Ecológica. Marzo 31 de 2020',
       link:
         'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20488%20DEL%2027%20DE%20MARZO%20DE%202020.pdf',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
     },
     {
       referencia:
@@ -373,7 +361,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Edgar Mauricio Cortes García',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

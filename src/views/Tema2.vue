@@ -6,8 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1
-        i Responsabilidades en el Sistema General de Riesgos Laborales
+      h1 Responsabilidades en el Sistema General de Riesgos Laborales
     
     figure.mb-4
       img(src="@/assets/curso/tema2/img01.jpg", alt="marco normativo")
@@ -52,11 +51,7 @@
         figure
           img(src="@/assets/curso/tema2/img05.jpg", alt="dinámica de los procesos productivos")
       .col-lg-7
-        p.mb-4 Adicionalmente, lo contenido en la Resolución 0312 del 2019, en el artículo 23, obligaciones del empleador.
-
-        p.mb-4 A continuación, se observan aspectos relevantes de las responsabilidades y obligaciones de los participantes del Sistema de Gestión de Seguridad y Salud en el Trabajo, de acuerdo con la legislación vigente.
-
-        ul.lista-ul--color.lista-ul--color.mb-0
+        ul.lista-ul--color.lista-ul--color.mb-4
           li 
             i.lista-ul__vineta
             | #[strong Artículo 2.2.4.6.8:] Obligaciones de los empleadores.
@@ -66,6 +61,10 @@
           li 
             i.lista-ul__vineta
             | #[strong Artículo 2.2.4.6.10:] Responsabilidades de los trabajadores.
+
+        p.mb-4 Adicionalmente, lo contenido en la Resolución 0312 del 2019, en el artículo 23, obligaciones del empleador.
+
+        p.mb-0 A continuación, se observan aspectos relevantes de las responsabilidades y obligaciones de los participantes del Sistema de Gestión de Seguridad y Salud en el Trabajo, de acuerdo con la legislación vigente.
     
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1
@@ -81,19 +80,25 @@
               h3.mb-0.text-white Responsabilidad
         tbody
           tr
-            th.BGgt(rowspan='10') 
+            th(rowspan='13') 
               h4 Responsabilidades del empleador
-            td Responsabilidades del empleador    Definir, firmar y divulgar la política de seguridad y salud en el trabajo a trav&eacute;s de documento escrito.
+            td Definir, firmar y divulgar la política de seguridad y salud en el trabajo a través de documento escrito.
           tr
             td Asignaci&oacute;n y comunicaci&oacute;n de responsabilidades.
           tr
             td Rendici&oacute;n de cuentas al interior de la empresa a quienes se les haya asignado responsabilidades en el sistema de gesti&oacute;n de seguridad y salud en el trabajo (SG-SST).
           tr
-            td Definici&oacute;n de recursos para el dise&ntilde;o e implementaci&oacute;n, revisi&oacute;n, evaluaci&oacute;n y mejora de las medidas de prevenci&oacute;n y control para la gesti&oacute;n eficaz de los peligros y riesgos en el lugar de trabajo, adem&aacute;s, para que el comit&eacute; paritario o vigía de seguridad y salud en el trabajo desempe&ntilde;e sus funciones.
+            td Definición de recursos para el diseño e implementación, revisión, evaluación y mejora de las medidas de prevención y control para la gestión eficaz de los peligros y riesgos en el lugar de trabajo, además, para que el comité paritario o vigía de seguridad y salud en el trabajo desempeñe sus funciones.
+          tr
+            td Cumplimiento de los requisitos normativos aplicables: debe garantizar que opera bajo el cumplimiento de la normatividad nacional en seguridad y salud en el trabajo, en armonía con los estándares mínimos del sistema obligatorio de garantía de calidad del sistema general de riesgos laborales de la Resolución 0312 del 2019.
           tr
             td Gesti&oacute;n de los peligros y riesgos: debe adoptar pr&aacute;cticas efectivas para desarrollar la identificaci&oacute;n de peligros, evaluaci&oacute;n de los riesgos y establecer controles.
           tr
             td Plan de trabajo anual: debe programar e implementar un plan de trabajo anual para alcanzar cada uno de los objetivos propuestos en el sistema de gesti&oacute;n de seguridad y salud en el trabajo.
+          tr
+            td Prevención y promoción de riesgos laborales: debe implementar y desarrollar actividades de prevención de accidentes de trabajo y enfermedades laborales, así también de promoción de la salud.
+          tr
+            td Participación de los trabajadores: debe desarrollar medidas eficaces que garanticen la participación de los trabajadores ante el comité paritario o el vigía de seguridad y salud en el trabajo.
           tr
             td Debe avalar la capacitaci&oacute;n de los trabajadores en los aspectos de seguridad y salud en el trabajo, como la identificaci&oacute;n de peligros, la evaluaci&oacute;n y valoraci&oacute;n de riesgos relacionados con su trabajo, plan de emergencias, contextos de emergencia que se puedan dar durante la jornada laboral.
           tr
@@ -117,7 +122,7 @@
             td Facilitar los espacios y tiempos para la capacitaci&oacute;n de los trabajadores a su cargo en materia de salud ocupacional y para adelantar los programas de promoci&oacute;n y prevenci&oacute;n a cargo de las Administradoras de Riesgos Laborales.
           tr
             th(rowspan='7') Responsabilidades de los trabajadores
-            td Responsabilidades de los trabajadores
+            td Conocer y tener clara la política de seguridad y salud en el trabajo.
           tr
             td Procurar el cuidado integral de su salud.
           tr
@@ -135,51 +140,75 @@
             td
               | De acuerdo con el artículo 56 del Decreto 1295 de 1994, el par&aacute;grafo del artículo 2.2.4.6.36 del Decreto 1072 de 2015 y el artículo 36 de la Resoluci&oacute;n 0312 del 2019, las Aseguradoras de Riesgos Laborales tienen responsabilidad delegada en la vigilancia para el cumplimiento del Sistema de Gesti&oacute;n de Seguridad y Salud en el Trabajo de las empresas afiliadas, Adicionalmente, deben analizar y dar recomendaciones adecuadas para los planes de mejoramiento, despu&eacute;s de efectuar la autoevaluaci&oacute;n, y, en consecuencia, deben informar a las Direcciones Territoriales del Ministerio del Trabajo cuando haya incumplimientos.
               br
+              br
               | Adem&aacute;s, la legislaci&oacute;n vigente contiene otras obligaciones, como son: Realizar actividades de promoci&oacute;n y prevenci&oacute;n, capacitar al comit&eacute; paritario o vigía de seguridad y salud, brindar asesoría y asistencia t&eacute;cnica a las empresas afiliadas en el desarrollo del sistema de gesti&oacute;n de seguridad y salud en el trabajo.
           tr
             th Responsabilidades de las Administradoras de Riesgos Laborales (ARL) para empresas con 10 o menos trabajadores y unidades agropecuarias con 10 o menos trabajadores de forma permanente
             td
-              | Apoyar, capacitar, asesorar y realizar acompa&ntilde;amiento t&eacute;cnico, de manera presencial, para que realicen y mantengan actualizada la identificaci&oacute;n de peligros asociados con su labor y la ejecuci&oacute;n de las medidas de prevenci&oacute;n y control.
-              br
-              | Brindar asesorías t&eacute;cnicas, de manera presencial, que incluyan como mínimo las siguientes actividades:
-              br
-              | Capacitaci&oacute;n para la implementaci&oacute;n de los est&aacute;ndares mínimos, fomento de estilos de trabajo y de vida saludable, de acuerdo con los perfiles epidemiol&oacute;gicos de las empresas.
-              br
-              | Capacitaci&oacute;n para la atenci&oacute;n de emergencias b&aacute;sicas.
-              br
-              | Capacitaci&oacute;n, asesoría y acompa&ntilde;amiento en investigaci&oacute;n de accidentes de trabajo y enfermedades laborales.
-              br
-              | Dise&ntilde;ar y asesorar en la implementaci&oacute;n de &aacute;reas, puestos de trabajo, maquinarias, equipos y herramientas. 
-              br
-              | Suministrar asesoría t&eacute;cnica para la realizaci&oacute;n de estudios evaluativos de higiene industrial. 
-              br
-              | Apoyar, asesorar y desarrollar campa&ntilde;as para el control efectivo de los peligros
-              br
-              | Fomentar estilos de vida y trabajo saludable.
-              br
-              | Promover y divulgar programas de medicina laboral, higiene y seguridad industrial.
+              p
+                | Apoyar, capacitar, asesorar y realizar acompa&ntilde;amiento t&eacute;cnico, de manera presencial, para que realicen y mantengan actualizada la identificaci&oacute;n de peligros asociados con su labor y la ejecuci&oacute;n de las medidas de prevenci&oacute;n y control.
+                br
+                br
+                | Brindar asesorías t&eacute;cnicas, de manera presencial, que incluyan como mínimo las siguientes actividades:
+
+              ul.lista-ul--color.lista-ul--color2.mb-0
+                li 
+                  i.lista-ul__vineta
+                  | Capacitaci&oacute;n para la implementaci&oacute;n de los est&aacute;ndares mínimos, fomento de estilos de trabajo y de vida saludable, de acuerdo con los perfiles epidemiol&oacute;gicos de las empresas.
+                li 
+                  i.lista-ul__vineta
+                  | Capacitaci&oacute;n para la atenci&oacute;n de emergencias b&aacute;sicas.
+                li 
+                  i.lista-ul__vineta
+                  | Capacitaci&oacute;n, asesoría y acompa&ntilde;amiento en investigaci&oacute;n de accidentes de trabajo y enfermedades laborales.
+                li 
+                  i.lista-ul__vineta
+                  | Dise&ntilde;ar y asesorar en la implementaci&oacute;n de &aacute;reas, puestos de trabajo, maquinarias, equipos y herramientas. 
+                li 
+                  i.lista-ul__vineta
+                  | Suministrar asesoría t&eacute;cnica para la realizaci&oacute;n de estudios evaluativos de higiene industrial. 
+                li 
+                  i.lista-ul__vineta
+                  | Apoyar, asesorar y desarrollar campa&ntilde;as para el control efectivo de los peligros
+                li 
+                  i.lista-ul__vineta
+                  | Fomentar estilos de vida y trabajo saludable.
+                li 
+                  i.lista-ul__vineta
+                  | Promover y divulgar programas de medicina laboral, higiene y seguridad industrial.
           tr
             th Responsabilidades de las Administradoras de Riesgos Laborales (ARL) para empresas con 11 a 50 trabajadores y unidades agropecuarias con 11 a 50 trabajadores de forma permanente
             td
               | Capacitaci&oacute;n en seguridad y salud en el trabajo.
               br
+              br
               | Fomento de estilos de vida y trabajo saludables, de acuerdo con los perfiles epidemiol&oacute;gicos de las empresas.
+              br
               br
               | Formulaci&oacute;n de la política y elaboraci&oacute;n del plan de trabajo anual.
               br
+              br
               | Identificaci&oacute;n de peligros, evaluaci&oacute;n y valoraci&oacute;n de riesgos. 
+              br
               br
               | Definici&oacute;n de prioridades de intervenci&oacute;n y medidas de control.
               br
+              br
               | Desarrollo de actividades de promoci&oacute;n y prevenci&oacute;n. 
               br
-              | Conformaci&oacute;n de brigadas de emergencia, COPASST y Comit&eacute; de Convivencia Laboral.
+              br
+              | Conformaci&oacute;n de br
+              brigadas de emergencia, COPASST y Comit&eacute; de Convivencia Laboral.
+              br
               br
               | Formulaci&oacute;n del plan de prevenci&oacute;n, preparaci&oacute;n y respuesta ante emergencias. 
               br
+              br
               | Reporte e investigaci&oacute;n de accidentes, incidentes y enfermedades laborales.
               br
+              br
               | Medici&oacute;n y evaluaci&oacute;n de la gesti&oacute;n.
+              br
               br
               | Recomendaciones al plan de mejora, conforme a la evaluaci&oacute;n de los est&aacute;ndares mínimos.
     
@@ -273,7 +302,7 @@
     Separador
 
     #t2_6.titulo-segundo
-      h2 2.6 Régimen de sanciones en el Sistema General de Riesgos Laborales.
+      h2 2.6 Régimen de sanciones en el Sistema General de Riesgos Laboraless
     
     p.mb-4 En cuanto al régimen de sanciones, el Ministerio de Salud y Protección Social  en diversas leyes indica:
 
@@ -363,29 +392,29 @@
             td Hasta 10
             td &lt; de 500 SMMLV
             td De 1 hasta 5
-            td De1 hasta 20 
-            td De20 hasta 24
+            td De 1 hasta 20 
+            td De 20 hasta 24
           tr
             td Pequeña empresa
-            td 11a 50
-            td 501a &lt; de 5000 SMMLV
+            td 11 a 50
+            td 501 a &lt; de 5000 SMMLV
             td De 6 hasta 20
-            td De21 hasta 50
-            td De25 hasta 150
+            td De 21 hasta 50
+            td De 25 hasta 150
           tr
             td Mediana empresa
             td 51 a 200
-            td De100.000 a 610.000 UVT
+            td De 100.000 a 610.000 UVT
             td De 21 hasta 100
-            td De51 hasta 100
-            td De151 hasta 400
+            td De 51 hasta 100
+            td De 151 hasta 400
           tr
             td Gran empresa
             td 201 o más 
-            td &gt;a 610.000 UVT
+            td &gt; a 610.000 UVT
             td De 101 hasta 500
-            td De101 hasta 1000
-            td De401 hasta 1000
+            td De 101 hasta 1000
+            td De 401 hasta 1000
     
     p.text-center.mb-4  Además, en la Resolución 0312 del 13 de febrero de 2019 de Mintrabajo, se encuentran estipuladas las sanciones en:
     

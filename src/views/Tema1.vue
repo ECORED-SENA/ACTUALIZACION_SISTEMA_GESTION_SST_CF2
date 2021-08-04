@@ -6,8 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 1
-      h1
-        i Actualización del marco normativo en seguridad y salud en el trabajo
+      h1 Actualización del marco normativo en seguridad y salud en el trabajo
     
     figure.mb-4
       img(src="@/assets/curso/tema1/img01.jpg", alt="marco normativo")
@@ -172,7 +171,7 @@
                 | Auditorías internas. 
               li 
                 i.lista-ul__vineta
-                | Investigaciones de accidentes y enfermedades laborales ocurridas en el periodo. 
+                | Investigaciones de accidentes y enfermedades laborales ocurridas en el período. 
               li 
                 i.lista-ul__vineta
                 | Informes de indicadores de gestión.
@@ -199,7 +198,7 @@
     
     Separador
 
-    #t1_2.titulo-segundo
+    #t1_3.titulo-segundo
       h2 1.3 Actualización legal y jurisprudencia en riesgos laborales
 
     p.mb-5 Desde el año 2018, en Colombia se ha emitido normatividad en peligro psicosocial, tareas de alto riesgo, plan de prevención, preparación y respuesta ante emergencias, medio ambiente, riesgo eléctrico, seguridad vial, manejo y etiquetado de productos químicos, riesgo biológico y protocolos de bioseguridad para mitigar los efectos de la pandemia, entre otros.
@@ -247,7 +246,7 @@
     
     Separador
 
-    #t1_2.titulo-segundo
+    #t1_4.titulo-segundo
       h2 1.4 La Comunidad Andina y los Sistemas de Gestión de Seguridad y Salud en el Trabajo
 
     p.mb-4 Estimado aprendiz, en este tema debe revisar la normativa de la CAN, relacionada con la seguridad y salud en el trabajo; observe el impacto que ha tenido en los sistemas de gestión de seguridad y salud en el trabajo en Colombia, ya que, como país miembro de esa comunidad, ha seguido sus lineamientos, lo que se ha visto reflejado en normatividad emanada para la protección del trabajo y para proteger los derechos de los trabajadores más vulnerables, entre otros.
@@ -280,7 +279,7 @@
     
     Separador
 
-    #t1_2.titulo-segundo
+    #t1_5.titulo-segundo
       h2 1.5 Actualización de la matriz legal en los Sistemas de Gestión de Seguridad y Salud en el Trabajo
 
     p.mb-4 Los requisitos normativos se recogen en la matriz legal, que, de acuerdo con el Decreto 1072 del 2015, es un elemento básico del Sistema de Gestión de Seguridad y Salud en el Trabajo; es la compilación de normas jerarquizadas de acuerdo con la legislación colombiana; es exigible a las organizaciones, de acuerdo con la actividad económica y los peligros a los que están expuestos los trabajadores; contiene normas generales que aplican a todas las empresas y normas específicas, de acuerdo con la exposición a peligros, por ejemplo, en tareas de alto riesgo, y a requisitos especiales de los contratantes o por entidades gubernamentales.
@@ -291,7 +290,7 @@
       .col-lg-10
         .bloque-texto-c.color-primario.BG01.p-4.mb-5
           i.fas.fa-quote-right
-          p.mb-0 La compilación de requisitos normativos exigibles a la empresa de acuerdo con las actividades propias e inherentes de su actividad productiva, los cuales dan los lineamientos normativos y técnicos para desarrollar el sistema de gestión de seguridad y salud en el trabajo (SG-SST), el cual deberá actualizarse en la medida en que sean emitidas nuevas disposiciones aplicables
+          p.mb-0 La compilación de requisitos normativos exigibles a la empresa de acuerdo con las actividades propias e inherentes de su actividad productiva, los cuales dan los lineamientos normativos y técnicos para desarrollar el sistema de gestión de seguridad y salud en el trabajo (SG-SST), el cual deberá actualizarse en la medida en que sean emitidas nuevas disposiciones aplicables.
         
         p.mb-4 En la evaluación de estándares mínimos de la Resolución 0312 del 2019, en cada ítem de los estándares a verificar, hay establecido un marco legal relacionado donde se especifican los artículos a cumplir y la evidencia de cumplimiento, lo cual es de gran ayuda al realizar la matriz legal. Es necesario recordar que el empleador debe garantizar la identificación y cumplimiento de las normas exigibles en la matriz legal de la empresa.
 
@@ -326,7 +325,7 @@
             |  Normas sectoriales.
           li 
             i.lista-ul__vineta
-            |  Normas internacionales. (voluntariamente)
+            |  Normas internacionales (voluntariamente).
         
         .BG01.p-4
           p.mb-4 A continuación, se presenta la explicación jerárquica de la normatividad colombiana, teniendo en cuenta la pirámide de Hans Kelsen.
@@ -383,11 +382,11 @@
       li 
         .lista-ol--cuadro__vineta
           span 1
-        | Clasificación: Norma general: Aplica para toda empresa sin importar su actividad económica. 
+        | Clasificación. Norma general: aplica para toda empresa sin importar su actividad económica. 
       li 
         .lista-ol--cuadro__vineta
           span 2
-        | Norma específica: Aplica solo para la actividad, procesos y riesgos propios de la empresa. Norma: Ley, Decreto, Resolución, Circular, entre otras.
+        | Norma específica: aplica solo para la actividad, procesos y riesgos propios de la empresa. Norma: Ley, Decreto, Resolución, Circular, entre otras.
       li 
         .lista-ol--cuadro__vineta
           span 3
