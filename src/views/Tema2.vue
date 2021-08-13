@@ -3,50 +3,50 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    .titulo-principal
+    .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 2
       h1 Responsabilidades en el Sistema General de Riesgos Laborales
     
-    figure.mb-4
+    figure.mb-4(data-aos="fade-left")
       img(src="@/assets/curso/tema2/img01.jpg", alt="marco normativo")
     
-    p.mb-4 La responsabilidad es un valor ético relacionado con la capacidad de responder por las obligaciones, en este caso, de seguridad y salud en el trabajo. La responsabilidad está relacionada con el cumplimiento de las normas de seguridad, con el cuidado de uno mismo, de los otros, de las materias primas, de los bienes y productos a cargo del empleador y de cada trabajador en el marco de las relaciones laborales.
-    p.mb-4 Las responsabilidades en el Sistema General de Riesgos Laborales están basadas en un modelo tripartita, donde:
+    p.mb-4(data-aos="fade") La responsabilidad es un valor ético relacionado con la capacidad de responder por las obligaciones, en este caso, de seguridad y salud en el trabajo. La responsabilidad está relacionada con el cumplimiento de las normas de seguridad, con el cuidado de uno mismo, de los otros, de las materias primas, de los bienes y productos a cargo del empleador y de cada trabajador en el marco de las relaciones laborales.
+    p.mb-4(data-aos="fade-down") Las responsabilidades en el Sistema General de Riesgos Laborales están basadas en un modelo tripartita, donde:
 
-    .tarjeta--container.row.mb-5
+    .tarjeta--container.row.mb-5(data-aos="fade-up")
       .col-md.tarjeta.color-primario.BG01.p-5
         .row.justify-content-center.mb-4
           .col-6
-            figure
+            figure(data-aos="flip-left")
               img(src='@/assets/curso/tema2/img02.svg', alt='Empresa')
         h2.text-center Empresa
-        p Afilia a los trabajadores a seguridad social y al sistema general de riesgos laborales; implementa el sistema de gestión de seguridad y salud en el trabajo, para mantener condiciones seguras y saludables en los ambientes de trabajo.
+        p(data-aos="fade-down") Afilia a los trabajadores a seguridad social y al sistema general de riesgos laborales; implementa el sistema de gestión de seguridad y salud en el trabajo, para mantener condiciones seguras y saludables en los ambientes de trabajo.
 
       .col-md.tarjeta.color-acento-botones.BG03.p-5
         .row.justify-content-center.mb-4
           .col-6
-            figure
+            figure(data-aos="flip-left")
               img(src='@/assets/curso/tema2/img03.svg', alt='ARL')
         h2.text-center ARL
-        p Cumple con lo estipulado en la legislación vigente para el desarrollo del sistema de gestión de seguridad y salud en el trabajo. Atiende y proporciona prestaciones económicas y asistenciales a los trabajadores accidentados o con enfermedad laboral y vigilan el cumplimiento del desarrollo del SG-SST en las empresas afiliadas.
+        p(data-aos="fade-down") Cumple con lo estipulado en la legislación vigente para el desarrollo del sistema de gestión de seguridad y salud en el trabajo. Atiende y proporciona prestaciones económicas y asistenciales a los trabajadores accidentados o con enfermedad laboral y vigilan el cumplimiento del desarrollo del SG-SST en las empresas afiliadas.
 
       .col-md.tarjeta.color-acento-contenido.BG01.p-5
         .row.justify-content-center.mb-4
           .col-6
-            figure
+            figure(data-aos="flip-left")
               img(src='@/assets/curso/tema2/img04.svg', alt='Trabajador')
         h2.text-center Trabajador
-        p Procura el cuidado integral de su salud, cumple con normas, reglamentos, protocolos del sistema de gestión de seguridad y salud en el trabajo y participa en las actividades de capacitación, entre otras.
+        p(data-aos="fade-down") Procura el cuidado integral de su salud, cumple con normas, reglamentos, protocolos del sistema de gestión de seguridad y salud en el trabajo y participa en las actividades de capacitación, entre otras.
     
     Separador
 
-    #t2_1.titulo-segundo
+    #t2_1.titulo-segundo(data-aos="flip-up")
       h2 2.1. Responsabilidades en el Sistema de Gestión de Seguridad y Salud en el Trabajo
 
-    p.mb-4 En el Sistema de Gestión de Seguridad y Salud en el Trabajo, hay varias normas donde están estipuladas las responsabilidades de cada una de las partes. Se pueden consultar en el Decreto 1072 del 2015, en los siguientes artículos:
+    p.mb-4(data-aos="fade-down") En el Sistema de Gestión de Seguridad y Salud en el Trabajo, hay varias normas donde están estipuladas las responsabilidades de cada una de las partes. Se pueden consultar en el Decreto 1072 del 2015, en los siguientes artículos:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-8.col-lg-5.mb-4.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/img05.jpg", alt="dinámica de los procesos productivos")
@@ -66,11 +66,11 @@
 
         p.mb-0 A continuación, se observan aspectos relevantes de las responsabilidades y obligaciones de los participantes del Sistema de Gestión de Seguridad y Salud en el Trabajo, de acuerdo con la legislación vigente.
     
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Tabla 1
       span Rol y responsabilidad
     
-    .tabla-b.color-acento-contenido.mb-4
+    .tabla-b.color-acento-contenido.mb-4(data-aos="fade")
       table
         thead
           tr
@@ -214,19 +214,19 @@
     
     Separador
 
-    #t2_2.titulo-segundo
+    #t2_2.titulo-segundo(data-aos="flip-up")
       h2 2.2 Responsabilidad laboral en el Sistema General de Riesgos Laborales
 
-    p.mb-4 La responsabilidad laboral surge de la celebración del contrato de trabajo o de la relación laboral, siendo esta una responsabilidad delegada a la Administradora de Riesgos Laborales, la cual está controlada por el Ministerio de Trabajo. La ARL asume esta responsabilidad siempre y cuando el empleador tenga afiliados a los trabajadores y pague la cotización correspondiente al Sistema General de Riesgos Laborales. Si el empleador no afilia a los trabajadores o no paga la cotización, tendría que asumir con su propio dinero los costos derivados del accidente de trabajo y/o enfermedad laboral, de igual manera a lo que les correspondería a las Administradoras de Riesgos Laborales.
+    p.mb-4(data-aos="fade") La responsabilidad laboral surge de la celebración del contrato de trabajo o de la relación laboral, siendo esta una responsabilidad delegada a la Administradora de Riesgos Laborales, la cual está controlada por el Ministerio de Trabajo. La ARL asume esta responsabilidad siempre y cuando el empleador tenga afiliados a los trabajadores y pague la cotización correspondiente al Sistema General de Riesgos Laborales. Si el empleador no afilia a los trabajadores o no paga la cotización, tendría que asumir con su propio dinero los costos derivados del accidente de trabajo y/o enfermedad laboral, de igual manera a lo que les correspondería a las Administradoras de Riesgos Laborales.
   
-    .row.justify-content-center.mb-4 
-      .col-lg-5.p-0
+    .row.justify-content-center.mb-4(data-aos="fade")
+      .col-lg-5.p-0(data-aos="slide-right")
         figure
           img(src="@/assets/curso/tema2/img08.jpg", alt="Responsabilidad laboral")
-      .col-lg-7.d-flex.align-items-center.BGu2.p-4
+      .col-lg-7.d-flex.align-items-center.BGu2.p-4(data-aos="slide-left")
         p.mb-0 Adicionalmente, tiene como obligación, de acuerdo con el Decreto Ley 1295 de 1994 y con la Ley 776 de 2002, pagar las prestaciones económicas que se deriven del accidente de trabajo o enfermedad laboral al trabajador o a sus beneficiarios; además, debe proporcionar asistencia en la prestación de servicios médicos, quirúrgicos, terapéuticos y farmacéuticos, servicios de hospitalización, suministro de medicamentos, servicio de diagnóstico y tratamiento, prótesis, órtesis, su reparación y reposición, rehabilitación física profesional, gastos de traslado, cuando sea necesario.
     
-    .row.justify-content-center.mb-4 
+    .row.justify-content-center.mb-4(data-aos="flip-down")
       .col-lg-10.BDtb.p-4
         p.mb-0
           strong El artículo 56 del Código Sustantivo del Trabajo dice: 
@@ -234,10 +234,10 @@
     
     Separador
 
-    #t2_3.titulo-segundo
+    #t2_3.titulo-segundo(data-aos="flip-up")
       h2 2.3 Responsabilidad civil en el Sistema General de Riesgos Laborales    
 
-    .BGu1.mb-4 
+    .BGu1.mb-4(data-aos="fade-down")
       .row.justify-content-center.align-items-end
         .col-lg-8.p-5
           p.mb-4 Es la obligación de responder por las consecuencias de daños materiales, morales o físicos causados a otros individuos en la relación laboral contractual, es la que responde a las obligaciones legales emanadas de la firma de un contrato laboral. El empleador tiene la obligación de indemnizar al trabajador cuando exista culpa suficientemente comprobada, por ejemplo: cuando no se toman las medidas necesarias en prevención de riesgos o hay negligencia en proporcionar las medidas de seguridad que eviten los accidentes de trabajo y enfermedades laborales.
@@ -246,7 +246,7 @@
           figure
             img(src="@/assets/curso/tema2/img06.jpg", alt="Responsabilidad civil")
     
-    .row.justify-content-center.mb-4 
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-10
         .row.justify-content-center.mb-4 
           .col-2
@@ -260,18 +260,18 @@
     
     Separador
 
-    #t2_4.titulo-segundo
+    #t2_4.titulo-segundo(data-aos="flip-up")
       h2 2.4 Responsabilidad penal en el Sistema General de Riesgos Laborales
 
     .row.justify-content-center.mb-4 
-      .col-3.d-none.d-lg-block
+      .col-3.d-none.d-lg-block(data-aos="flip-left")
         figure
           img(src="@/assets/curso/tema2/img09.jpg", alt="Responsabilidad penal")
       .col-lg-9
-        .BG03.p-4.mb-4
+        .BG03.p-4.mb-4(data-aos="flip-down")
           p.mb-0 De acuerdo con la legislación vigente en el Sistema General de Riesgos Laborales, todas las partes participantes de la relación laboral tienen responsabilidades, obligaciones y deberes. Una de las responsabilidades del empleador es velar por mantener ambientes seguros y saludables para sus trabajadores.
 
-        p.mb-4 Cuando se ocasiona un accidente de trabajo que, como consecuencia, cause lesiones o la muerte del trabajador, se puede establecer una demanda por las lesiones o por homicidio y, en consecuencia, debe ser afrontada por el causante, el cual puede ser cualquier miembro de la organización, como el representante legal, el jefe inmediato, el responsable de seguridad y salud en el trabajo, entre otros. Lo que trae como resultado que a estas personas se les pueda procesar penalmente por homicidio y puedan ser privados de la libertad, ya que el Estado puede imputar una sanción de tipo penal a aquel ciudadano que infrinja una norma.
+        p.mb-4(data-aos="fade") Cuando se ocasiona un accidente de trabajo que, como consecuencia, cause lesiones o la muerte del trabajador, se puede establecer una demanda por las lesiones o por homicidio y, en consecuencia, debe ser afrontada por el causante, el cual puede ser cualquier miembro de la organización, como el representante legal, el jefe inmediato, el responsable de seguridad y salud en el trabajo, entre otros. Lo que trae como resultado que a estas personas se les pueda procesar penalmente por homicidio y puedan ser privados de la libertad, ya que el Estado puede imputar una sanción de tipo penal a aquel ciudadano que infrinja una norma.
 
         .row.justify-content-center.mb-4
           .col-lg-10.BDlr.px-4.mb-5
@@ -280,7 +280,7 @@
           .col-lg-10
             p.mb-4.text-center Para consultar las clases de delitos establecidas en el Código Penal, consulte el siguiente enlace:
           
-          .col-lg-8
+          .col-lg-8(data-aos="slide-left")
             a.anexo(href="https://safetya.co/responsabilidad-penal-accidentes-trabajo/" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
@@ -289,10 +289,10 @@
     
     Separador
 
-    #t2_5.titulo-segundo
+    #t2_5.titulo-segundo(data-aos="flip-up")
       h2 2.5 Responsabilidad administrativa en el Sistema General de Riesgos Laborales
     
-    .row.justify-content-center.BG01.mb-4
+    .row.justify-content-center.BG01.mb-4(data-aos="fade")
       .col-lg-8.px-5.py-4.mb-4.mb-lg-0
         p.mb-0 Es un tipo de responsabilidad derivada de los compromisos adquiridos como empleador responsable del Sistema de Gestión de Seguridad y Salud en el Trabajo; está reglamentada en el artículo 2.2.4.11 del Decreto 1072 de 2015. Cuando el Ministerio del Trabajo ejerce vigilancia a la implementación del Sistema de Gestión de Seguridad y Salud en el Trabajo de la empresa y se evidencie que no se está cumpliendo con las normas, puede ser sancionado con multas económicas, hasta el cierre de la empresa.
       .col-6.col-lg-4
@@ -301,12 +301,12 @@
     
     Separador
 
-    #t2_6.titulo-segundo
+    #t2_6.titulo-segundo(data-aos="flip-up")
       h2 2.6 Régimen de sanciones en el Sistema General de Riesgos Laboraless
     
     p.mb-4 En cuanto al régimen de sanciones, el Ministerio de Salud y Protección Social  en diversas leyes indica:
 
-    LineaTiempoD.color-acento-contenido.mb-5
+    LineaTiempoD.color-acento-contenido.mb-5(data-aos="fade-up")
       .row(numero="1" titulo="Decreto 1072 de 2015")
         .col-md-7.mb-4.mb-md-0
           p.mb-0 Por incumplimiento de los programas de salud ocupacional por parte del empleador que puedan ocasionar accidentes de trabajo y enfermedad laboral, pueden tener multas de hasta quinientos (500) salarios mínimos mensuales legales vigentes. 
@@ -363,17 +363,17 @@
     .row.justify-content-center.mb-4
       .col-lg-10
         .row.justify-content-center.BG01.mb-4.mt-4
-          .col-lg-2.mb-4.mb-lg-0
+          .col-lg-2.mb-4.mb-lg-0(data-aos="fade-down-right")
             figure.MTneg
               img(src="@/assets/curso/tema2/img17.svg", alt="Responsabilidad administrativa")            
           .col-lg-10.p-4.d-flex.align-items-center
             p.mb-0 #[strong Estimado aprendiz,] en el siguiente cuadro se pueden observar los criterios de graduación de las multas por infracción a las normas de seguridad y salud en el trabajo. Artículo 2.2.4.11.5 del Decreto 1072 del 2015.
     
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-down")
       h5 Tabla 2
       span Sanciones por incumplimiento del empleador a las normas de Seguridad y Salud en el Trabajo
 
-    .tabla-a.color-acento-contenido.mb-5
+    .tabla-a.color-acento-contenido.mb-5(data-aos="fade")
       table
         thead
           tr
@@ -416,9 +416,9 @@
             td De 101 hasta 1000
             td De 401 hasta 1000
     
-    p.text-center.mb-4  Además, en la Resolución 0312 del 13 de febrero de 2019 de Mintrabajo, se encuentran estipuladas las sanciones en:
+    p.text-center.mb-4(data-aos="fade-down")  Además, en la Resolución 0312 del 13 de febrero de 2019 de Mintrabajo, se encuentran estipuladas las sanciones en:
     
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade")
       .col-lg-9.mb-4.mb-lg-0
         TabsA.color-acento-contenido.mb-5
           .tarjeta.color-acento-contenido.BG01.p-4(titulo="Artículo 24")
@@ -438,7 +438,7 @@
             p En el acto administrativo de sanción, se deben señalar con precisión y claridad cada uno de los Estándares Mínimos objeto de investigación y sanción administrativa laboral; identificando claramente las personas naturales o jurídicas objeto de investigación, cada estándar presuntamente incumplido y las sanciones o medidas que serían procedentes en cada caso.
 
       .col-6.col-lg-3
-        figure
+        figure(data-aos="flip-left")
           img(src="@/assets/curso/tema2/img18.svg", alt="Sanciones") 
 
 </template>

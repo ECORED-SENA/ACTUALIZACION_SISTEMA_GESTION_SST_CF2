@@ -3,29 +3,29 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-principal
+    .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Actualización del marco normativo en seguridad y salud en el trabajo
     
-    figure.mb-4
+    figure.mb-4(data-aos="fade-left")
       img(src="@/assets/curso/tema1/img01.jpg", alt="marco normativo")
     
-    p.mb-4 La normatividad es un mecanismo de protección para los trabajadores, consagra principios, como la Constitución Política de Colombia, reconoce derechos, como las leyes, se pueden encontrar normas preventivas y sancionatorias, entre otras. La legislación en materia de seguridad y salud en el trabajo es dinámica y cambia con alta frecuencia, teniendo en cuenta que se debe adaptar a las características de la población trabajadora, los cambios en la salud pública, la economía, los acuerdos internacionales, entre otros. Un claro ejemplo de ellos es el #[strong SARS COV - 2 (COVID 19)], que desde finales de 2019 hizo presencia en el mundo entero, modificando las realidades de los países y, por consiguiente, de las empresas y su forma de hacer seguridad y salud en el trabajo.
+    p.mb-4(data-aos="fade") La normatividad es un mecanismo de protección para los trabajadores, consagra principios, como la Constitución Política de Colombia, reconoce derechos, como las leyes, se pueden encontrar normas preventivas y sancionatorias, entre otras. La legislación en materia de seguridad y salud en el trabajo es dinámica y cambia con alta frecuencia, teniendo en cuenta que se debe adaptar a las características de la población trabajadora, los cambios en la salud pública, la economía, los acuerdos internacionales, entre otros. Un claro ejemplo de ellos es el #[strong SARS COV - 2 (COVID 19)], que desde finales de 2019 hizo presencia en el mundo entero, modificando las realidades de los países y, por consiguiente, de las empresas y su forma de hacer seguridad y salud en el trabajo.
 
-    .row.justify-content-center.mb-0
+    .row.justify-content-center.mb-0(data-aos="fade-up")
       .col-lg-10
         .cajon.color-primario.BG01.p-4.mb-4
           p.mb-0 Esta dinámica hace que, para los responsables y los demás actores de SST, sea un reto mantenerse actualizados en materia de legislación y, por consiguiente, garantizar el cumplimiento de esta normatividad en las empresas y organizaciones que lideran. Los requisitos normativos se recogen en la matriz legal, elemento básico del Sistema de Gestión de Seguridad y Salud en el Trabajo.
     
     Separador
 
-    #t1_1.titulo-segundo
+    #t1_1.titulo-segundo(data-aos="flip-up")
       h2 1.1 Análisis de la evolución técnica de los Sistemas de Gestión en Seguridad y Salud en el Trabajo
 
-    p.mb-4 Estimado aprendiz, para hacer un análisis de la evolución de los #[strong Sistemas de Gestión en Seguridad y Salud en el Trabajo], se procederá a mencionar algunas normas en orden cronológico, estas son:
+    p.mb-4(data-aos="fade-down") Estimado aprendiz, para hacer un análisis de la evolución de los #[strong Sistemas de Gestión en Seguridad y Salud en el Trabajo], se procederá a mencionar algunas normas en orden cronológico, estas son:
 
-    .tarjeta.tarjeta--gris.p-4.mb-5
+    .tarjeta.tarjeta--gris.p-4.mb-5(data-aos="fade-right")
       LineaTiempoC.color-acento-contenido(text-small)
         .row.justify-content-center(titulo="1979")
           .col-6.col-lg-3.mb-4.mb-lg-0
@@ -108,17 +108,17 @@
     
     Separador
 
-    #t1_2.titulo-segundo
+    #t1_2.titulo-segundo(data-aos="flip-up")
       h2 1.2. Análisis de los cambios en la normativa internacional en Seguridad y Salud en el Trabajo 
 
-    p.mb-5 Los sistemas de gestión en seguridad y salud en el trabajo han evolucionado desde sus inicios teniendo en cuenta el componente de mejora continua. En el mundo, los sistemas de gestión están basados en el Ciclo de Deming, también conocido como el ciclo PHVA, el cual consta de 4 etapas: Planear – Hacer – Verificar – Actuar.
+    p.mb-5(data-aos="fade-down") Los sistemas de gestión en seguridad y salud en el trabajo han evolucionado desde sus inicios teniendo en cuenta el componente de mejora continua. En el mundo, los sistemas de gestión están basados en el Ciclo de Deming, también conocido como el ciclo PHVA, el cual consta de 4 etapas: Planear – Hacer – Verificar – Actuar.
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-lg-8
         figure
           img(src='@/assets/curso/tema1/img12.svg', alt='ciclo PHVA')
     
-    .row.justify-content-center.gx-3.mb-4  
+    .row.justify-content-center.gx-3.mb-4(data-aos="fade")  
       .col-md-6.col-lg-3.mb-4.mb-lg-0
         .p-3.BorTop--01
           .bordGris.position-relative.p-4
@@ -191,19 +191,19 @@
     
     .row.align-items-end.BG03
       .col-3.d-none.d-lg-block
-        figure.MrgN170
+        figure.MrgN170(data-aos="fade-up-right")
           img(src='@/assets/curso/tema1/img13.svg', alt='Personaje')
-      .col-lg-9.p-4
+      .col-lg-9.p-4(data-aos="fade")
         p.mb-0 Actualmente, existe la NTC - ISO 45001:2018, que es la norma internacional para documentación, implementación y mejora de estándares superiores en sistemas de gestión de seguridad y salud en el trabajo. La implementación de este tipo de sistemas es voluntaria para las empresas en Colombia y, por lo tanto, busca un reconocimiento al desempeño superior de las organizaciones en materia de seguridad y salud en el trabajo.
     
     Separador
 
-    #t1_3.titulo-segundo
+    #t1_3.titulo-segundo(data-aos="flip-up")
       h2 1.3 Actualización legal y jurisprudencia en riesgos laborales
 
-    p.mb-5 Desde el año 2018, en Colombia se ha emitido normatividad en peligro psicosocial, tareas de alto riesgo, plan de prevención, preparación y respuesta ante emergencias, medio ambiente, riesgo eléctrico, seguridad vial, manejo y etiquetado de productos químicos, riesgo biológico y protocolos de bioseguridad para mitigar los efectos de la pandemia, entre otros.
+    p.mb-5(data-aos="fade") Desde el año 2018, en Colombia se ha emitido normatividad en peligro psicosocial, tareas de alto riesgo, plan de prevención, preparación y respuesta ante emergencias, medio ambiente, riesgo eléctrico, seguridad vial, manejo y etiquetado de productos químicos, riesgo biológico y protocolos de bioseguridad para mitigar los efectos de la pandemia, entre otros.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="flip-down")
       .col-lg-10.BordMov
         .row.BG01.position-relative.rounded2.d-flex.align-items-center
           .col-lg-9.p-4
@@ -213,7 +213,7 @@
             figure
               img.pt-4.px-4(src="@/assets/curso/tema1/img14.svg", alt="dinámica de los procesos productivos")
     
-    .row.justify-content-center.mb-3
+    .row.justify-content-center.mb-3(data-aos="fade")
       .col-lg-10      
         
         .tarjeta.color-secundario.p-3.mb-5
@@ -231,13 +231,13 @@
                     i.fas.fa-file-download.textBlack
         
         .row.mb-3
-          .col-md-6
+          .col-md-6(data-aos="slide-left")
             a.anexo.mb-4(:href="obtenerLink('/downloads/SL9355-2017.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p #[strong Anexo.] SL9355-2017
-          .col-md-6
+          .col-md-6(data-aos="slide-right")
             a.anexo.mb-4(:href="obtenerLink('/downloads/Accidente_mortal.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
@@ -246,14 +246,14 @@
     
     Separador
 
-    #t1_4.titulo-segundo
+    #t1_4.titulo-segundo(data-aos="flip-up")
       h2 1.4 La Comunidad Andina y los Sistemas de Gestión de Seguridad y Salud en el Trabajo
 
     p.mb-4 Estimado aprendiz, en este tema debe revisar la normativa de la CAN, relacionada con la seguridad y salud en el trabajo; observe el impacto que ha tenido en los sistemas de gestión de seguridad y salud en el trabajo en Colombia, ya que, como país miembro de esa comunidad, ha seguido sus lineamientos, lo que se ha visto reflejado en normatividad emanada para la protección del trabajo y para proteger los derechos de los trabajadores más vulnerables, entre otros.
 
-    p.mb-2 Como lo dice la Decisión 584 de 2005, del Instrumento Andino de Seguridad y Salud en el Trabajo (IESS):
+    p.mb-2(data-aos="fade-down") Como lo dice la Decisión 584 de 2005, del Instrumento Andino de Seguridad y Salud en el Trabajo (IESS):
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="flip-right")
       .col-lg-10
         .bloque-texto-f.color-acento-contenido.pt-4.px-5.mt-5.mb-4.rounded2
           .bloque-texto-f__comillas
@@ -261,7 +261,7 @@
             i.fas.fa-quote-right.textBwhite
           p.bloque-texto-f__texto.p-4 La Decisión 584 parte del Acuerdo de Cartagena y define que uno de los objetivos para alcanzar un trabajo decente es procurar por el mejoramiento de la calidad de vida de los habitantes de la subregión, garantizando así la protección y la seguridad de los trabajadores.
     
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-up")
       .col-8.col-lg-3.mb-4.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/img15.jpg", alt="dinámica de los procesos productivos")
@@ -279,14 +279,14 @@
     
     Separador
 
-    #t1_5.titulo-segundo
+    #t1_5.titulo-segundo(data-aos="flip-up")
       h2 1.5 Actualización de la matriz legal en los Sistemas de Gestión de Seguridad y Salud en el Trabajo
 
     p.mb-4 Los requisitos normativos se recogen en la matriz legal, que, de acuerdo con el Decreto 1072 del 2015, es un elemento básico del Sistema de Gestión de Seguridad y Salud en el Trabajo; es la compilación de normas jerarquizadas de acuerdo con la legislación colombiana; es exigible a las organizaciones, de acuerdo con la actividad económica y los peligros a los que están expuestos los trabajadores; contiene normas generales que aplican a todas las empresas y normas específicas, de acuerdo con la exposición a peligros, por ejemplo, en tareas de alto riesgo, y a requisitos especiales de los contratantes o por entidades gubernamentales.
 
     p.mb-4 Definida en el artículo 2.2.4.6.2 numeral 24 del Decreto 1072 del 2015, como:
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade")
       .col-lg-10
         .bloque-texto-c.color-primario.BG01.p-4.mb-5
           i.fas.fa-quote-right
@@ -309,7 +309,7 @@
                   .anexo__texto
                     p #[strong Anexo.] Matriz legal
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-8
         p.mb-4.text-center Normatividad que debe contener la matriz legal
 
@@ -335,7 +335,7 @@
     
     p.mb-4.text-center Atendiendo lo que se describe en el curso Organización del Sistema de Gestión de la Seguridad y Salud en el Trabajo del SENA y Mintrabajo, esto es:
     
-    .bloque-texto-f.color-acento-contenido.pt-4.px-5.mt-5.mb-4.rounded2
+    .bloque-texto-f.color-acento-contenido.pt-4.px-5.mt-5.mb-4.rounded2(data-aos="fade-up")
       .bloque-texto-f__comillas
         i.fas.fa-quote-left.textBwhite
         i.fas.fa-quote-right.textBwhite
@@ -343,7 +343,7 @@
     
     p.mb-4.text-center Dentro de la pirámide, es posible encontrar diferentes tipos de legislación, los cuales se muestran a continuación, de mayor a menor jerarquía:
 
-    .row.mb-5.gx-2
+    .row.mb-5.gx-2(data-aos="fade-up")
       .col-md-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta-numerada.color-primario.py-4.px-5.h-100
           .tarjeta-numerada__numero
@@ -378,7 +378,7 @@
     
     p.mb-4 El reconocimiento de estas normas resulta primordial para definir la matriz legal objeto de cumplimiento. La matriz legal debe quedar documentada dentro del SG-SST y su actualización debe hacerse cada vez que se emitan nuevas disposiciones legales aplicables. Para mayor comprensión de la matriz, se sugiere que esta contenga los siguientes aspectos.
 
-    ol.lista-ol--cuadro.mb-5
+    ol.lista-ol--cuadro.mb-5(data-aos="flip-down")
       li 
         .lista-ol--cuadro__vineta
           span 1
@@ -413,14 +413,14 @@
         .row.justify-content-center.BG01.p-4.mb-4
           .col-lg-8.d-flex.align-items-center.mb-4.mb-lg-0
             p.mb-0 Estimado aprendiz, para ampliar la información, descargue el siguiente documento.
-          .col-6.col-lg-4.d-flex.align-items-center
+          .col-6.col-lg-4.d-flex.align-items-center(data-aos="slide-left")
             a.anexo(:href="obtenerLink('/downloads/PDF3_organizacion_sgsst_sena_mintrabajo.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p #[strong Anexo.] Organización SG-SST
         
-        .row.justify-content-center.mb-4
+        .row.justify-content-center.mb-4(data-aos="fade")
           .col-lg-8.d-flex.align-items-center.mb-4.mb-lg-0
             p.mb-0 Cada organización debe mantener la matriz de requisitos legales actualizada, asimismo, los mecanismos de cumplimiento. Además, en este material se relaciona normatividad emanada por el Gobierno Nacional, desde el 2018, concerniente a: peligro psicosocial, tareas de alto riesgo, plan de prevención, preparación y respuesta ante emergencias, medio ambiente, riesgo eléctrico, seguridad vial, manejo y etiquetado de productos químicos, riesgo biológico y protocolos de bioseguridad. 
           .col-8.col-lg-4
@@ -430,7 +430,7 @@
         .row.justify-content-center.BC01.p-4.mb-4
           .col-lg-8.d-flex.align-items-center.mb-4.mb-lg-0
             p.mb-0 Estimado aprendiz, para actualizar la matriz legal, debe revisar la legislación aplicable para la actividad económica de la empresa. Puede consultar normatividad en el siguiente enlace: 
-          .col-6.col-lg-4.d-flex.align-items-center
+          .col-6.col-lg-4.d-flex.align-items-center(data-aos="slide-left")
             a.anexo(href="https://www.mintrabajo.gov.co/normatividad/decretos-no-compilados-y-otros-decretos/-/document_library/9gX59PkUWi1Z/view_file/61335154" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
@@ -439,7 +439,7 @@
         
         .p.mb-4.text-center A continuación, se listan algunas de las normas generadas en torno a la documentación e implementación de protocolos de bioseguridad.
 
-        .tabla-b.color-acento-contenido.mb-5
+        .tabla-b.color-acento-contenido.mb-5(data-aos="fade")
           table
             thead
               tr
@@ -459,10 +459,10 @@
                 td Modificaciones a los protocolos generales de bioseguridad.
         
         .row.justify-content-center
-          .col-6.col-lg-5.d-flex.align-items-center.mb-4.mb-lg-0
+          .col-6.col-lg-5.d-flex.align-items-center.mb-4.mb-lg-0(data-aos="flip-left")
             figure
               img(src="@/assets/curso/tema1/img19.jpg", alt="normas vigentes")             
-          .col-lg-7.BC01.p-4
+          .col-lg-7.BC01.p-4(data-aos="flip-right")
             p.mb-4 Para consultar todas las normas vigentes en el marco de la pandemia por SARS-CoV-2, consulte el siguiente enlace:
             .row.justify-content-center
               .col-lg-8
@@ -471,21 +471,6 @@
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[strong Enlace web.] normas vigentes
-
-        
-        
-        
-
-
-
-
-        
-
-      
-
-
-
-
   
 </template>
 
