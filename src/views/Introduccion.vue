@@ -3,15 +3,15 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
   
-    .titulo-principal
+    .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span
           i.fas.fa-info
       h1 Introducción
     
-    p.mb-4 Apreciado aprendiz, es usted bienvenido a este segundo momento de aprendizaje, que lo orientará en la identificación y reconocimiento de la normativa vigente relacionada con los aspectos a cumplir en el Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST), con el fin de prevenir enfermedades y accidentes de trabajo derivados de los riesgos a los que están expuestos los trabajadores como consecuencia del trabajo que desempeñan y de los efectos derivados de la pandemia.
+    p.mb-4(data-aos="fade") Apreciado aprendiz, es usted bienvenido a este segundo momento de aprendizaje, que lo orientará en la identificación y reconocimiento de la normativa vigente relacionada con los aspectos a cumplir en el Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST), con el fin de prevenir enfermedades y accidentes de trabajo derivados de los riesgos a los que están expuestos los trabajadores como consecuencia del trabajo que desempeñan y de los efectos derivados de la pandemia.
 
-    .BG01.p-4.mb-4
+    .BG01.p-4.mb-4(data-aos="fade-up")
       .row.justify-content-center
         .col-8.col-lg-4.mb-4.mb-lg-0
           figure
@@ -23,7 +23,7 @@
     
     p.mb-4 Como lo menciona la Ley 1562 de 2012, emitida por el Ministerio de Trabajo:
     
-    .bloque-texto-f.color-acento-contenido.pt-4.px-5.mt-5.mb-4.rounded2
+    .bloque-texto-f.color-acento-contenido.pt-4.px-5.mt-5.mb-4.rounded2(data-aos="fade")
       .bloque-texto-f__comillas
         i.fas.fa-quote-left.textBwhite
         i.fas.fa-quote-right.textBwhite
@@ -34,10 +34,10 @@
     .row.justify-content-center.mb-5
       .col-lg-10.BordMov
         .row.align-items-end.BG01.position-relative.rounded2
-          .col-lg-4.d-none.d-lg-block
+          .col-lg-4.d-none.d-lg-block(data-aos="flip-left")
             figure
               img.pt-4.px-4(src="@/assets/curso/intro/img02.svg", alt="dinámica de los procesos productivos")
-          .col-lg-8.p-4
+          .col-lg-8.p-4(data-aos="fade-right")
             p.mb-4 #[strong Para recordar], el Sistema de Gestión de Seguridad y Salud en el Trabajo:
             ul.lista-ul--color
               li 
@@ -53,7 +53,7 @@
                 i.lista-ul__vineta
                 | Debe diseñarse de acuerdo con las características propias de la organización.
 
-    p.mb-0 Para la elaboración de este componente, se abordaron varios autores conocidos en SG-SST, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido que el conocimiento es social y, por lo tanto, es para usarlo por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos, aprendices y lectores en general, que estén interesados en acercarse a asuntos del marco normativo en seguridad y salud en el trabajo.
+    p.mb-0(data-aos="fade") Para la elaboración de este componente, se abordaron varios autores conocidos en SG-SST, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido que el conocimiento es social y, por lo tanto, es para usarlo por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos, aprendices y lectores en general, que estén interesados en acercarse a asuntos del marco normativo en seguridad y salud en el trabajo.
 
 </template>
 

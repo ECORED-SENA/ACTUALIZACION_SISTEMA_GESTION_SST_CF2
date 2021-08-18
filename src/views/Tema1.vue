@@ -311,7 +311,10 @@
     
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-8
-        p.mb-4.text-center Normatividad que debe contener la matriz legal
+        h4.mb-4.text-center Normatividad que debe contener la matriz legal
+
+        .video.mb-4
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/5noygTuYJL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
         ul.lista-ul--color.mb-4
           li 
