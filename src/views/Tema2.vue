@@ -54,13 +54,13 @@
         ul.lista-ul--color.lista-ul--color.mb-4
           li 
             i.lista-ul__vineta
-            | #[strong Artículo 2.2.4.6.8:] Obligaciones de los empleadores.
+            p.mb-0 #[strong Artículo 2.2.4.6.8:] obligaciones de los empleadores.
           li 
             i.lista-ul__vineta
-            | #[strong Artículo 2.2.4.6.9:] Obligaciones de las administradoras de riesgos laborales. (ARL)
+            p.mb-0 #[strong Artículo 2.2.4.6.9: ] obligaciones de las administradoras de riesgos laborales. (ARL)
           li 
             i.lista-ul__vineta
-            | #[strong Artículo 2.2.4.6.10:] Responsabilidades de los trabajadores.
+            p.mb-0 #[strong Artículo 2.2.4.6.10: ] responsabilidades de los trabajadores.
 
         p.mb-4 Adicionalmente, lo contenido en la Resolución 0312 del 2019, en el artículo 23, obligaciones del empleador.
 
@@ -108,11 +108,11 @@
               | En las empresas: debe garantizar la disponibilidad de personal responsable, cuyo perfil deber&aacute; ser de acuerdo con la normatividad vigente (Resoluci&oacute;n 0312 del 2019), quienes deber&aacute;n:
               br
               br
-              | 10.1: Planear, organizar, dirigir, desarrollar y aplicar el SG-SST, y, como mínimo      una vez al a&ntilde;o, realizar su evaluaci&oacute;n.
+              | 10.1: planear, organizar, dirigir, desarrollar y aplicar el SG-SST, y, como mínimo      una vez al a&ntilde;o, realizar su evaluaci&oacute;n.
               br
-              | 10.2: Informar a la alta direcci&oacute;n sobre el funcionamiento y los resultados del SG-SST.
+              | 10.2: informar a la alta direcci&oacute;n sobre el funcionamiento y los resultados del SG-SST.
               br
-              | 10.3: Promover la participaci&oacute;n de todos los miembros de la empresa en la implementaci&oacute;n del SG-SST.
+              | 10.3: promover la participaci&oacute;n de todos los miembros de la empresa en la implementaci&oacute;n del SG-SST.
           tr
             td
               | Integraci&oacute;n: el empleador debe involucrar los aspectos del SG-SST al conjunto de sistemas de gesti&oacute;n que desarrolle la organizaci&oacute;n.
@@ -230,7 +230,7 @@
       .col-lg-10.BDtb.p-4
         p.mb-0
           strong El artículo 56 del Código Sustantivo del Trabajo dice: 
-          | “De modo general, incumben al empleador obligaciones de protección y de seguridad para con los trabajadores y a estas obligaciones de obediencia y de fidelidad con el empleador”.
+          | “de modo general, incumben al empleador obligaciones de protección y de seguridad para con los trabajadores y a estas obligaciones de obediencia y de fidelidad con el empleador”.
     
     Separador
 
@@ -256,7 +256,7 @@
             p.mb-0 Recuerde que una correcta implementación del Sistema de Gestión de Seguridad y Salud en el Trabajo, aplicando las normas preventivas, reglamentos de trabajo y protocolos de seguridad y bioseguridad, disminuye la posibilidad de contingencias que generen daños y pérdidas a los trabajadores que puedan ser objeto de demandas.
         
         .cajon.color-primario.BG01.p-4
-          p.mb-0 El artículo 216 del Código Sustantivo del Trabajo: Culpa Plena Patronal dice: “Cuando exista culpa suficientemente comprobada del patrono en la ocurrencia de accidente de trabajo o en la enfermedad profesional, está obligado a la indemnización total y ordinaria por perjuicios…”
+          p.mb-0 El artículo 216 del Código Sustantivo del Trabajo: culpa Plena Patronal dice: “cuando exista culpa suficientemente comprobada del patrono en la ocurrencia de accidente de trabajo o en la enfermedad profesional, está obligado a la indemnización total y ordinaria por perjuicios…”
     
     Separador
 

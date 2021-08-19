@@ -147,13 +147,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Circular 0041 de 2020. [Ministerio del Trabajo]. Lineamientos respecto del trabajo en casa. Junio 2 de 2020.',
+        'Circular 0041 de 2020. [Ministerio del Trabajo]. Lineamientos respecto del trabajo en casa. Junio 2 de 2020. ',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/60876961/Circular+0041-2020.PDF/98d19065-352d-33d2-978e-9e9069374144?t=1591222484807',
     },
     {
       referencia:
-        'Circular 0071 de 2020. [Ministerio del Trabajo]. Cumplimiento al Parágrafo 2 del artículo 28 de la Resolución 312 de 2019 mediante la cual se definen planes de mejora conforme al resultado de la autoevaluación de los estándares mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST.',
+        'Circular 0071 de 2020. [Ministerio del Trabajo]. Cumplimiento al Parágrafo 2 del artículo 28 de la Resolución 312 de 2019 mediante la cual se definen planes de mejora conforme al resultado de la autoevaluación de los estándares mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST. ',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/60876961/circular+0071.pdf/f7f84d25-fcb2-e957-d9ce-cb4c87e84be3?t=1606771091887.',
     },
@@ -165,52 +165,52 @@ export default {
     },
     {
       referencia:
-        'Decreto 500 de 2020. [Ministerio del Trabajo]. Por el cual se adoptan medidas de orden laboral, relativas a la destinación de los recursos de las cotizaciones a las Administradoras de Riesgos Laborales de carácter público, en el marco del Estado de Emergencia Económica, Social y Ecológica. Marzo 31 de 2020',
+        'Decreto 500 de 2020. [Ministerio del Trabajo]. Por el cual se adoptan medidas de orden laboral, relativas a la destinación de los recursos de las cotizaciones a las Administradoras de Riesgos Laborales de carácter público, en el marco del Estado de Emergencia Económica, Social y Ecológica. Marzo 31 de 2020. ',
       link:
         'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20488%20DEL%2027%20DE%20MARZO%20DE%202020.pdf',
     },
     {
       referencia:
-        'Decreto 676 de 2020. [Ministerio del Trabajo]. Por el cual se incorpora una enfermedad directa a la tabla de enfermedades laborales y se dictan otras disposiciones. Mayo 19 de 2020.',
+        'Decreto 676 de 2020. [Ministerio del Trabajo]. Por el cual se incorpora una enfermedad directa a la tabla de enfermedades laborales y se dictan otras disposiciones. Mayo 19 de 2020. ',
       link:
         'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20676%20DEL%2019%20DE%20MAYO%20DE%202020.pdf',
     },
     {
       referencia:
-        'IESS [Instituto Ecuatoriano de Seguridad Social]. (2005). Decisión 584. Instrumento Andino de Seguridad y Salud en el Trabajo. OISS.',
+        'IESS [Instituto Ecuatoriano de Seguridad Social]. (2005). Decisión 584. Instrumento Andino de Seguridad y Salud en el Trabajo. OISS. ',
       link: 'https://oiss.org/wp-content/uploads/2018/12/decision584.pdf',
     },
     {
       referencia:
-        'Ley 610 de 2013. Por la cual se regulan algunos aspectos sobre las inspecciones del trabajo y los acuerdos de formalización laboral. Enero 2 de 2013. DO. Nº 48.661.',
+        'Ley 610 de 2013. Por la cual se regulan algunos aspectos sobre las inspecciones del trabajo y los acuerdos de formalización laboral. Enero 2 de 2013. DO. Nº 48.661. ',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=51147',
     },
     {
       referencia:
-        'Ley 2015 de 2020. Por medio de la cual se crea la historia clínica electrónica interoperable y se dictan otras disposiciones. Enero 31 de 2020.',
+        'Ley 2015 de 2020. Por medio de la cual se crea la historia clínica electrónica interoperable y se dictan otras disposiciones. Enero 31 de 2020. ',
       link:
         'https://dapre.presidencia.gov.co/normativa/normativa/LEY%202015%20DEL%2031%20DE%20ENERO%20DE%202020.pdf',
     },
     {
       referencia:
-        'Resolución 957 de 2005. [Comunidad Andina]. Reglamento del Instrumento Andino de Seguridad y Salud en el Trabajo. Septiembre 23 de 2005.',
+        'Resolución 957 de 2005. [Comunidad Andina]. Reglamento del Instrumento Andino de Seguridad y Salud en el Trabajo. Septiembre 23 de 2005. ',
       link:
         'http://intranet.comunidadandina.org/documentos/Gacetas/gace1245.pdf',
     },
     {
       referencia:
-        'Resolución 4927 de 2016. [Ministerio del Trabajo]. Por la cual se establecen los parámetros y requisitos para desarrollar, certificar y registrar la capacitación virtual en el Sistema de Gestión de la Seguridad y Salud en el Trabajo. Noviembre 23 de 2016.',
+        'Resolución 4927 de 2016. [Ministerio del Trabajo]. Por la cual se establecen los parámetros y requisitos para desarrollar, certificar y registrar la capacitación virtual en el Sistema de Gestión de la Seguridad y Salud en el Trabajo. Noviembre 23 de 2016. ',
       link: 'https://safetya.co/normatividad/resolucion-4927-de-2016/',
     },
     {
       referencia:
-        'Resolución 0312 de 2019. [Ministerio del Trabajo]. Por la cual se definen los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST. Febrero 13 de 2019.',
+        'Resolución 0312 de 2019. [Ministerio del Trabajo]. Por la cual se definen los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST. Febrero 13 de 2019. ',
       link: 'https://safetya.co/normatividad/resolucion-0312-de-2019/',
     },
     {
       referencia:
-        'Resolución 2404 de 2019. [Ministerio del Trabajo]. Por la cual se adopta la batería de instrumentos para la evaluación de factores de riesgo psicosocial, la guía técnica general para la promoción, prevención e intervención de los factores psicosociales y sus efectos en la población trabajadora y sus protocolos específicos y se dictan otras disposiciones. Julio 22 de 2019.',
+        'Resolución 2404 de 2019. [Ministerio del Trabajo]. Por la cual se adopta la batería de instrumentos para la evaluación de factores de riesgo psicosocial, la guía técnica general para la promoción, prevención e intervención de los factores psicosociales y sus efectos en la población trabajadora y sus protocolos específicos y se dictan otras disposiciones. Julio 22 de 2019. ',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/59995826/Resolucion+2404+de+2019-+Adopcion+bateria+riesgo+psicosocial%2C+guia+y+protocolos.pdf',
     },

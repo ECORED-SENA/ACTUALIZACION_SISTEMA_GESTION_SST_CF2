@@ -271,7 +271,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | La Resolución 957 de 2005: Reglamento del Instrumento Andino de Seguridad y Salud en el Trabajo.
+            | La Resolución 957 de 2005: reglamento del Instrumento Andino de Seguridad y Salud en el Trabajo.
           li
             .lista-ol--cuadro__vineta
               span 2
