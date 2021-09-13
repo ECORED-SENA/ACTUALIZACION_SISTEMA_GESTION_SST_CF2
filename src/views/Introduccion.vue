@@ -17,7 +17,7 @@
           figure
             img(src="@/assets/curso/intro/img01.jpg", alt="dinámica de los procesos productivos")
         .col-lg-8
-          p.mb-4 Como es bien sabido, el desarrollo de la legislación en seguridad y salud en el trabajo es un proceso que se da de acuerdo con la dinámica de los procesos productivos, de los acontecimientos y cambios propios de los eventos nacionales y mundiales. Teniendo en cuenta la pandemia causada por el coronavirus SARS – CoV-2 (COVID 19), el gobierno nacional ha realizado convenios internacionales y ha generado legislación con el fin de cuidar el capital humano, la conservación de la vida, la mejora de las condiciones de salud y trabajo y por consiguiente la productividad, rentabilidad y economía del país.
+          p.mb-4 Como es bien sabido, el desarrollo de la legislación en seguridad y salud en el trabajo es un proceso que se da de acuerdo con la dinámica de los procesos productivos, de los acontecimientos y cambios propios de los eventos nacionales y mundiales. Teniendo en cuenta la pandemia causada por el coronavirus SARS – CoV-2 (COVID 19), el Gobierno Nacional ha realizado convenios internacionales y ha generado legislación con el fin de cuidar el capital humano, la conservación de la vida, la mejora de las condiciones de salud y trabajo y por consiguiente la productividad, rentabilidad y economía del país.
 
           p.mb-0 Colombia es un Estado social de derecho, lo que implica que las relaciones laborales, comerciales y sociales están basadas en la legislación; por supuesto, la seguridad y la salud en el trabajo no son la excepción; es por ello que la base para la documentación, implementación y mejoramiento de los SG-SST son los requisitos legales. 
     

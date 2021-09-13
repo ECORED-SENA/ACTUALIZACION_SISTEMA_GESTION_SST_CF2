@@ -11,7 +11,7 @@
     figure.mb-4(data-aos="fade-left")
       img(src="@/assets/curso/tema2/img01.jpg", alt="marco normativo")
     
-    p.mb-4(data-aos="fade") La responsabilidad es un valor ético relacionado con la capacidad de responder por las obligaciones, en este caso, de seguridad y salud en el trabajo. La responsabilidad está relacionada con el cumplimiento de las normas de seguridad, con el cuidado de uno mismo, de los otros, de las materias primas, de los bienes y productos a cargo del empleador y de cada trabajador en el marco de las relaciones laborales.
+    p.mb-4(data-aos="fade") La responsabilidad es un valor ético relacionado con la capacidad de responder por las obligaciones, en este caso, de Seguridad y Salud en el Trabajo. La responsabilidad está relacionada con el cumplimiento de las normas de seguridad, con el cuidado de uno mismo, de los otros, de las materias primas, de los bienes y productos a cargo del empleador y de cada trabajador en el marco de las relaciones laborales.
     p.mb-4(data-aos="fade-down") Las responsabilidades en el Sistema General de Riesgos Laborales están basadas en un modelo tripartita, donde:
 
     .tarjeta--container.row.mb-5(data-aos="fade-up")
@@ -21,7 +21,7 @@
             figure(data-aos="flip-left")
               img(src='@/assets/curso/tema2/img02.svg', alt='Empresa')
         h2.text-center Empresa
-        p(data-aos="fade-down") Afilia a los trabajadores a seguridad social y al sistema general de riesgos laborales; implementa el sistema de gestión de seguridad y salud en el trabajo, para mantener condiciones seguras y saludables en los ambientes de trabajo.
+        p(data-aos="fade-down") Afilia a los trabajadores a seguridad social y al Sistema General de Riesgos Laborales; implementa el Sistema de Gestión de Seguridad y Salud en el Trabajo, para mantener condiciones seguras y saludables en los ambientes de trabajo.
 
       .col-md.tarjeta.color-acento-botones.BG03.p-5
         .row.justify-content-center.mb-4
@@ -29,7 +29,7 @@
             figure(data-aos="flip-left")
               img(src='@/assets/curso/tema2/img03.svg', alt='ARL')
         h2.text-center ARL
-        p(data-aos="fade-down") Cumple con lo estipulado en la legislación vigente para el desarrollo del sistema de gestión de seguridad y salud en el trabajo. Atiende y proporciona prestaciones económicas y asistenciales a los trabajadores accidentados o con enfermedad laboral y vigilan el cumplimiento del desarrollo del SG-SST en las empresas afiliadas.
+        p(data-aos="fade-down") Cumple con lo estipulado en la legislación vigente para el desarrollo del Sistema de Gestión de Seguridad y Salud en el Trabajo. Atiende y proporciona prestaciones económicas y asistenciales a los trabajadores accidentados o con enfermedad laboral y vigilan el cumplimiento del desarrollo del SG-SST en las empresas afiliadas.
 
       .col-md.tarjeta.color-acento-contenido.BG01.p-5
         .row.justify-content-center.mb-4
@@ -37,7 +37,7 @@
             figure(data-aos="flip-left")
               img(src='@/assets/curso/tema2/img04.svg', alt='Trabajador')
         h2.text-center Trabajador
-        p(data-aos="fade-down") Procura el cuidado integral de su salud, cumple con normas, reglamentos, protocolos del sistema de gestión de seguridad y salud en el trabajo y participa en las actividades de capacitación, entre otras.
+        p(data-aos="fade-down") Procura el cuidado integral de su salud, cumple con normas, reglamentos, protocolos del Sistema de Gestión de Seguridad y Salud en el Trabajo y participa en las actividades de capacitación, entre otras.
     
     Separador
 
@@ -57,7 +57,7 @@
             p.mb-0 #[strong Artículo 2.2.4.6.8:] obligaciones de los empleadores.
           li 
             i.lista-ul__vineta
-            p.mb-0 #[strong Artículo 2.2.4.6.9: ] obligaciones de las administradoras de riesgos laborales. (ARL)
+            p.mb-0 #[strong Artículo 2.2.4.6.9: ] obligaciones de las Administradoras de Riesgos Laborales (ARL).
           li 
             i.lista-ul__vineta
             p.mb-0 #[strong Artículo 2.2.4.6.10: ] responsabilidades de los trabajadores.
@@ -82,28 +82,28 @@
           tr
             th(rowspan='13') 
               h4 Responsabilidades del empleador
-            td Definir, firmar y divulgar la política de seguridad y salud en el trabajo a través de documento escrito.
+            td Definir, firmar y divulgar la política de Seguridad y Salud en el Trabajo a través de documento escrito.
           tr
             td Asignaci&oacute;n y comunicaci&oacute;n de responsabilidades.
           tr
-            td Rendici&oacute;n de cuentas al interior de la empresa a quienes se les haya asignado responsabilidades en el sistema de gesti&oacute;n de seguridad y salud en el trabajo (SG-SST).
+            td Rendici&oacute;n de cuentas al interior de la empresa a quienes se les haya asignado responsabilidades en el sistema de gesti&oacute;n de Seguridad y Salud en el Trabajo (SG-SST).
           tr
-            td Definición de recursos para el diseño e implementación, revisión, evaluación y mejora de las medidas de prevención y control para la gestión eficaz de los peligros y riesgos en el lugar de trabajo, además, para que el comité paritario o vigía de seguridad y salud en el trabajo desempeñe sus funciones.
+            td Definición de recursos para el diseño e implementación, revisión, evaluación y mejora de las medidas de prevención y control para la gestión eficaz de los peligros y riesgos en el lugar de trabajo, además, para que el comité paritario o vigía de Seguridad y Salud en el Trabajo desempeñe sus funciones.
           tr
-            td Cumplimiento de los requisitos normativos aplicables: debe garantizar que opera bajo el cumplimiento de la normatividad nacional en seguridad y salud en el trabajo, en armonía con los estándares mínimos del sistema obligatorio de garantía de calidad del sistema general de riesgos laborales de la Resolución 0312 del 2019.
+            td Cumplimiento de los requisitos normativos aplicables: debe garantizar que opera bajo el cumplimiento de la normatividad nacional en Seguridad y Salud en el Trabajo, en armonía con los estándares mínimos del sistema obligatorio de garantía de calidad del Sistema General de Riesgos Laborales de la Resolución 0312 del 2019.
           tr
             td Gesti&oacute;n de los peligros y riesgos: debe adoptar pr&aacute;cticas efectivas para desarrollar la identificaci&oacute;n de peligros, evaluaci&oacute;n de los riesgos y establecer controles.
           tr
-            td Plan de trabajo anual: debe programar e implementar un plan de trabajo anual para alcanzar cada uno de los objetivos propuestos en el sistema de gesti&oacute;n de seguridad y salud en el trabajo.
+            td Plan de trabajo anual: debe programar e implementar un plan de trabajo anual para alcanzar cada uno de los objetivos propuestos en el sistema de gesti&oacute;n de Seguridad y Salud en el Trabajo.
           tr
             td Prevención y promoción de riesgos laborales: debe implementar y desarrollar actividades de prevención de accidentes de trabajo y enfermedades laborales, así también de promoción de la salud.
           tr
-            td Participación de los trabajadores: debe desarrollar medidas eficaces que garanticen la participación de los trabajadores ante el comité paritario o el vigía de seguridad y salud en el trabajo.
+            td Participación de los trabajadores: debe desarrollar medidas eficaces que garanticen la participación de los trabajadores ante el comité paritario o el vigía de Seguridad y Salud en el Trabajo.
           tr
-            td Debe avalar la capacitaci&oacute;n de los trabajadores en los aspectos de seguridad y salud en el trabajo, como la identificaci&oacute;n de peligros, la evaluaci&oacute;n y valoraci&oacute;n de riesgos relacionados con su trabajo, plan de emergencias, contextos de emergencia que se puedan dar durante la jornada laboral.
+            td Debe avalar la capacitaci&oacute;n de los trabajadores en los aspectos de Seguridad y Salud en el Trabajo, como la identificaci&oacute;n de peligros, la evaluaci&oacute;n y valoraci&oacute;n de riesgos relacionados con su trabajo, plan de emergencias, contextos de emergencia que se puedan dar durante la jornada laboral.
           tr
             td
-              | La direcci&oacute;n de la seguridad y salud en el trabajo (SST).
+              | La direcci&oacute;n de la Seguridad y Salud en el Trabajo (SST).
               br
               | En las empresas: debe garantizar la disponibilidad de personal responsable, cuyo perfil deber&aacute; ser de acuerdo con la normatividad vigente (Resoluci&oacute;n 0312 del 2019), quienes deber&aacute;n:
               br
@@ -122,15 +122,15 @@
             td Facilitar los espacios y tiempos para la capacitaci&oacute;n de los trabajadores a su cargo en materia de salud ocupacional y para adelantar los programas de promoci&oacute;n y prevenci&oacute;n a cargo de las Administradoras de Riesgos Laborales.
           tr
             th(rowspan='7') Responsabilidades de los trabajadores
-            td Conocer y tener clara la política de seguridad y salud en el trabajo.
+            td Conocer y tener clara la política de Seguridad y Salud en el Trabajo.
           tr
             td Procurar el cuidado integral de su salud.
           tr
             td Suministrar informaci&oacute;n clara, completa y veraz sobre su estado de salud.
           tr
-            td Cumplir las normas reglamentos e instrucciones del sistema de gesti&oacute;n de seguridad y salud en el trabajo en la empresa.
+            td Cumplir las normas reglamentos e instrucciones del sistema de gesti&oacute;n de Seguridad y Salud en el Trabajo en la empresa.
           tr
-            td Participar en las actividades de capacitaci&oacute;n de seguridad y salud en el trabajo definidas en el plan de capacitaci&oacute;n.
+            td Participar en las actividades de capacitaci&oacute;n de Seguridad y Salud en el Trabajo definidas en el plan de capacitaci&oacute;n.
           tr
             td Informar oportunamente al empleador sobre las condiciones de peligro o riesgo detectadas en el sitio de trabajo.
           tr
@@ -141,7 +141,7 @@
               | De acuerdo con el artículo 56 del Decreto 1295 de 1994, el par&aacute;grafo del artículo 2.2.4.6.36 del Decreto 1072 de 2015 y el artículo 36 de la Resoluci&oacute;n 0312 del 2019, las Aseguradoras de Riesgos Laborales tienen responsabilidad delegada en la vigilancia para el cumplimiento del Sistema de Gesti&oacute;n de Seguridad y Salud en el Trabajo de las empresas afiliadas, Adicionalmente, deben analizar y dar recomendaciones adecuadas para los planes de mejoramiento, despu&eacute;s de efectuar la autoevaluaci&oacute;n, y, en consecuencia, deben informar a las Direcciones Territoriales del Ministerio del Trabajo cuando haya incumplimientos.
               br
               br
-              | Adem&aacute;s, la legislaci&oacute;n vigente contiene otras obligaciones, como son: Realizar actividades de promoci&oacute;n y prevenci&oacute;n, capacitar al comit&eacute; paritario o vigía de seguridad y salud, brindar asesoría y asistencia t&eacute;cnica a las empresas afiliadas en el desarrollo del sistema de gesti&oacute;n de seguridad y salud en el trabajo.
+              | Adem&aacute;s, la legislaci&oacute;n vigente contiene otras obligaciones, como son: Realizar actividades de promoci&oacute;n y prevenci&oacute;n, capacitar al comit&eacute; paritario o vigía de seguridad y salud, brindar asesoría y asistencia t&eacute;cnica a las empresas afiliadas en el desarrollo del sistema de gesti&oacute;n de Seguridad y Salud en el Trabajo.
           tr
             th Responsabilidades de las Administradoras de Riesgos Laborales (ARL) para empresas con 10 o menos trabajadores y unidades agropecuarias con 10 o menos trabajadores de forma permanente
             td
@@ -179,7 +179,7 @@
           tr
             th Responsabilidades de las Administradoras de Riesgos Laborales (ARL) para empresas con 11 a 50 trabajadores y unidades agropecuarias con 11 a 50 trabajadores de forma permanente
             td
-              | Capacitaci&oacute;n en seguridad y salud en el trabajo.
+              | Capacitaci&oacute;n en Seguridad y Salud en el Trabajo.
               br
               br
               | Fomento de estilos de vida y trabajo saludables, de acuerdo con los perfiles epidemiol&oacute;gicos de las empresas.
@@ -197,8 +197,7 @@
               | Desarrollo de actividades de promoci&oacute;n y prevenci&oacute;n. 
               br
               br
-              | Conformaci&oacute;n de br
-              brigadas de emergencia, COPASST y Comit&eacute; de Convivencia Laboral.
+              | Conformaci&oacute;n de brigadas de emergencia, COPASST y Comit&eacute; de Convivencia Laboral.
               br
               br
               | Formulaci&oacute;n del plan de prevenci&oacute;n, preparaci&oacute;n y respuesta ante emergencias. 
@@ -271,7 +270,7 @@
         .BG03.p-4.mb-4(data-aos="flip-down")
           p.mb-0 De acuerdo con la legislación vigente en el Sistema General de Riesgos Laborales, todas las partes participantes de la relación laboral tienen responsabilidades, obligaciones y deberes. Una de las responsabilidades del empleador es velar por mantener ambientes seguros y saludables para sus trabajadores.
 
-        p.mb-4(data-aos="fade") Cuando se ocasiona un accidente de trabajo que, como consecuencia, cause lesiones o la muerte del trabajador, se puede establecer una demanda por las lesiones o por homicidio y, en consecuencia, debe ser afrontada por el causante, el cual puede ser cualquier miembro de la organización, como el representante legal, el jefe inmediato, el responsable de seguridad y salud en el trabajo, entre otros. Lo que trae como resultado que a estas personas se les pueda procesar penalmente por homicidio y puedan ser privados de la libertad, ya que el Estado puede imputar una sanción de tipo penal a aquel ciudadano que infrinja una norma.
+        p.mb-4(data-aos="fade") Cuando se ocasiona un accidente de trabajo que, como consecuencia, cause lesiones o la muerte del trabajador, se puede establecer una demanda por las lesiones o por homicidio y, en consecuencia, debe ser afrontada por el causante, el cual puede ser cualquier miembro de la organización, como el representante legal, el jefe inmediato, el responsable de Seguridad y Salud en el Trabajo, entre otros. Lo que trae como resultado que a estas personas se les pueda procesar penalmente por homicidio y puedan ser privados de la libertad, ya que el Estado puede imputar una sanción de tipo penal a aquel ciudadano que infrinja una norma.
 
         .row.justify-content-center.mb-4
           .col-lg-10.BDlr.px-4.mb-5
@@ -302,7 +301,7 @@
     Separador
 
     #t2_6.titulo-segundo(data-aos="flip-up")
-      h2 2.6 Régimen de sanciones en el Sistema General de Riesgos Laboraless
+      h2 2.6 Régimen de sanciones en el Sistema General de Riesgos Laborales
     
     p.mb-4 En cuanto al régimen de sanciones, el Ministerio de Salud y Protección Social  en diversas leyes indica:
 
@@ -367,7 +366,7 @@
             figure.MTneg
               img(src="@/assets/curso/tema2/img17.svg", alt="Responsabilidad administrativa")            
           .col-lg-10.p-4.d-flex.align-items-center
-            p.mb-0 #[strong Estimado aprendiz,] en el siguiente cuadro se pueden observar los criterios de graduación de las multas por infracción a las normas de seguridad y salud en el trabajo. Artículo 2.2.4.11.5 del Decreto 1072 del 2015.
+            p.mb-0 #[strong Estimado aprendiz,] en el siguiente cuadro se pueden observar los criterios de graduación de las multas por infracción a las normas de Seguridad y Salud en el Trabajo. Artículo 2.2.4.11.5 del Decreto 1072 del 2015.
     
     .titulo-sexto.color-acento-contenido(data-aos="fade-down")
       h5 Tabla 2

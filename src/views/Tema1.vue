@@ -319,7 +319,7 @@
         ul.lista-ul--color.mb-4
           li 
             i.lista-ul__vineta
-            |  Normatividad nacional que aplique al sistema de gestión de seguridad y salud en el trabajo.
+            |  Normatividad nacional que aplique al Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST).
           li 
             i.lista-ul__vineta
             |  Normatividad de acuerdo con la actividad económica de la empresa. 
@@ -379,7 +379,7 @@
             b Resolución
           p.text-center.mb-0 Complementan las leyes, tiene carácter general, obligatorio y permanente. Es específica en el cómo deben cumplirse las leyes.
     
-    p.mb-4 El reconocimiento de estas normas resulta primordial para definir la matriz legal objeto de cumplimiento. La matriz legal debe quedar documentada dentro del SG-SST y su actualización debe hacerse cada vez que se emitan nuevas disposiciones legales aplicables. Para mayor comprensión de la matriz, se sugiere que esta contenga los siguientes aspectos.
+    p.mb-4 El reconocimiento de estas normas resulta primordial para definir la matriz legal objeto de cumplimiento. La matriz legal debe quedar documentada dentro del SG-SST y su actualización debe hacerse cada vez que se emitan nuevas disposiciones legales aplicables. Para mayor comprensión de la matriz, se sugiere que esta contenga los siguientes aspectos:
 
     ol.lista-ol--cuadro.mb-5(data-aos="flip-down")
       li 

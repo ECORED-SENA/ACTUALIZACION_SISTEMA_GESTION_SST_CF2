@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Actualización del marco normativo en seguridad y salud en el trabajo',
+      'Actualización del marco normativo en Seguridad y Salud en el Trabajo',
     descripcionCurso:
       'Se hará una revisión de la normativa vigente en el Sistema de Gestión de Seguridad y Salud en el Trabajo, la actualización de la matriz de requisitos legales de las empresas de acuerdo con la actividad económica y los peligros identificados, adicional a una revisión de las responsabilidades en el Sistema General de Riesgos Laborales.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
@@ -32,7 +32,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '1.1',
             titulo:
-              'Análisis de la evolución técnica de los sistemas de gestión en seguridad y salud en el trabajo',
+              'Análisis de la evolución técnica de los Sistemas de Gestión en Seguridad y Salud en el Trabajo',
             hash: 't1_1',
           },
           {
@@ -52,14 +52,14 @@ export default {
             icono: 'far fa-file-alt',
             numero: '1.4',
             titulo:
-              'La Comunidad Andina y los sistemas de gestión de seguridad y salud en el trabajo',
+              'La Comunidad Andina y los Sistemas de Gestión en Seguridad y Salud en el Trabajo',
             hash: 't1_4',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.5',
             titulo:
-              'Actualización matriz legal en los sistemas de gestión de seguridad y salud en el trabajo',
+              'Actualización matriz legal en los Sistemas de Gestión en Seguridad y Salud en el Trabajo',
             hash: 't1_5',
           },
         ],
@@ -449,6 +449,17 @@ export default {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+
+      {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
     ],
   },
