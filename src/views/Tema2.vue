@@ -86,7 +86,7 @@
           tr
             td Asignaci&oacute;n y comunicaci&oacute;n de responsabilidades.
           tr
-            td Rendici&oacute;n de cuentas al interior de la empresa a quienes se les haya asignado responsabilidades en el sistema de gesti&oacute;n de Seguridad y Salud en el Trabajo (SG-SST).
+            td Rendici&oacute;n de cuentas al interior de la empresa a quienes se les haya asignado responsabilidades en el Sistema de Gesti&oacute;n de Seguridad y Salud en el Trabajo (SG-SST).
           tr
             td Definición de recursos para el diseño e implementación, revisión, evaluación y mejora de las medidas de prevención y control para la gestión eficaz de los peligros y riesgos en el lugar de trabajo, además, para que el comité paritario o vigía de Seguridad y Salud en el Trabajo desempeñe sus funciones.
           tr
@@ -94,7 +94,7 @@
           tr
             td Gesti&oacute;n de los peligros y riesgos: debe adoptar pr&aacute;cticas efectivas para desarrollar la identificaci&oacute;n de peligros, evaluaci&oacute;n de los riesgos y establecer controles.
           tr
-            td Plan de trabajo anual: debe programar e implementar un plan de trabajo anual para alcanzar cada uno de los objetivos propuestos en el sistema de gesti&oacute;n de Seguridad y Salud en el Trabajo.
+            td Plan de trabajo anual: debe programar e implementar un plan de trabajo anual para alcanzar cada uno de los objetivos propuestos en el Sistema de Gesti&oacute;n de Seguridad y Salud en el Trabajo.
           tr
             td Prevención y promoción de riesgos laborales: debe implementar y desarrollar actividades de prevención de accidentes de trabajo y enfermedades laborales, así también de promoción de la salud.
           tr
@@ -128,7 +128,7 @@
           tr
             td Suministrar informaci&oacute;n clara, completa y veraz sobre su estado de salud.
           tr
-            td Cumplir las normas reglamentos e instrucciones del sistema de gesti&oacute;n de Seguridad y Salud en el Trabajo en la empresa.
+            td Cumplir las normas reglamentos e instrucciones del Sistema de Gesti&oacute;n de Seguridad y Salud en el Trabajo en la empresa.
           tr
             td Participar en las actividades de capacitaci&oacute;n de Seguridad y Salud en el Trabajo definidas en el plan de capacitaci&oacute;n.
           tr
@@ -141,7 +141,7 @@
               | De acuerdo con el artículo 56 del Decreto 1295 de 1994, el par&aacute;grafo del artículo 2.2.4.6.36 del Decreto 1072 de 2015 y el artículo 36 de la Resoluci&oacute;n 0312 del 2019, las Aseguradoras de Riesgos Laborales tienen responsabilidad delegada en la vigilancia para el cumplimiento del Sistema de Gesti&oacute;n de Seguridad y Salud en el Trabajo de las empresas afiliadas, Adicionalmente, deben analizar y dar recomendaciones adecuadas para los planes de mejoramiento, despu&eacute;s de efectuar la autoevaluaci&oacute;n, y, en consecuencia, deben informar a las Direcciones Territoriales del Ministerio del Trabajo cuando haya incumplimientos.
               br
               br
-              | Adem&aacute;s, la legislaci&oacute;n vigente contiene otras obligaciones, como son: Realizar actividades de promoci&oacute;n y prevenci&oacute;n, capacitar al comit&eacute; paritario o vigía de seguridad y salud, brindar asesoría y asistencia t&eacute;cnica a las empresas afiliadas en el desarrollo del sistema de gesti&oacute;n de Seguridad y Salud en el Trabajo.
+              | Adem&aacute;s, la legislaci&oacute;n vigente contiene otras obligaciones, como son: Realizar actividades de promoci&oacute;n y prevenci&oacute;n, capacitar al comit&eacute; paritario o vigía de seguridad y salud, brindar asesoría y asistencia t&eacute;cnica a las empresas afiliadas en el desarrollo del Sistema de Gesti&oacute;n de Seguridad y Salud en el Trabajo.
           tr
             th Responsabilidades de las Administradoras de Riesgos Laborales (ARL) para empresas con 10 o menos trabajadores y unidades agropecuarias con 10 o menos trabajadores de forma permanente
             td
